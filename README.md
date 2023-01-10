@@ -1,24 +1,24 @@
-# README
+# Get That Home API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to Get That Home-API. The back-end solution for your Get That Home Website 😎
 
-Things you may want to cover:
+## Instructions
 
-* Ruby version
+- Clone this repo on your local machine.
+- Run `bundle install`
+- Setup your datababase:
+  - `rails db:create`
+  - `rails db:migrate`
+  - `rails db:seed`
+- Start the server `rails s`
 
-* System dependencies
+## About the API
 
-* Configuration
+### Endpoints
 
-* Database creation
+Here the list of available endpoints. The most important are marked with (\*)
 
-* Database initialization
+[WIP]
+### API Authentication
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[WIP]
