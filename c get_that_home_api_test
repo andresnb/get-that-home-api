@@ -1,0 +1,40 @@
+                                             List of databases
+                   Name                   |  Owner   | Encoding | Collate |  Ctype  |   Access privileges   
+------------------------------------------+----------+----------+---------+---------+-----------------------
+ andresnb                                 | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ api_get_that_home_development            | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ api_get_that_home_test                   | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ auth_api_basic_token_development         | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ auth_api_basic_token_test                | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ blog_development                         | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ blog_test                                | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ booking                                  | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ contactable-api_development              | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ contactable-api_test                     | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ critics_alpha_andresnb_development       | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ critics_alpha_andresnb_test              | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ critics_alpha_paulotijero_c8_development | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ critics_alpha_paulotijero_c8_test        | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ critics_beta_development                 | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ critics_beta_test                        | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ critics_rc_development                   | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ critics_rc_test                          | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ expensable_api_development               | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ expensable_api_test                      | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ get_that_home_api_development            | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ get_that_home_api_test                   | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ insights                                 | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ movielens                                | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ music_store_c8_week9_team3_development   | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ music_store_c8_week9_team3_test          | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ postgres                                 | postgres | UTF8     | C.UTF-8 | C.UTF-8 | 
+ somesplash_c8_team6_week10_development   | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ somesplash_c8_team6_week10_test          | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ template0                                | postgres | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres          +
+                                          |          |          |         |         | postgres=CTc/postgres
+ template1                                | postgres | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres          +
+                                          |          |          |         |         | postgres=CTc/postgres
+ tweetable_development                    | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+ tweetable_test                           | andresnb | UTF8     | C.UTF-8 | C.UTF-8 | 
+(33 rows)
+

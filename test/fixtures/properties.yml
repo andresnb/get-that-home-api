@@ -1,7 +1,7 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  owner_id: 1
+  user_id: one
   name: MyString
   addresse: MyString
   district: MyString
@@ -13,12 +13,12 @@ one:
   area: 1
   pets: false
   price: 
-  maintanance: 
+  maintenance: 
   operation_type: 1
   property_type: 1
 
 two:
-  owner_id: 1
+  user_id: two
   name: MyString
   addresse: MyString
   district: MyString
@@ -30,6 +30,6 @@ two:
   area: 1
   pets: false
   price: 
-  maintanance: 
+  maintenance: 
   operation_type: 1
   property_type: 1
