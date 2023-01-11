@@ -20,8 +20,8 @@ class ApplicationController < ActionController::API
 
   def authenticate_token
     authenticate_with_http_token do |token, _options|
-      #User.where(['token = ? and token_created_at >= ?', token, 1.hour.ago]).first
-      User.find_by(token:token)
+      # User.where(['token = ? and token_created_at >= ?', token, 1.hour.ago]).first
+      User.find_by(token:)
     end
   end
 end

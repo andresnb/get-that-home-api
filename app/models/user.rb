@@ -9,11 +9,11 @@ class User < ApplicationRecord
 
   def update_token
     regenerate_token
-    #update(token_created_at: Time.current)
+    # update(token_created_at: Time.current)
   end
 
   def self.valid_login?(email, password)
-    user = find_by(email: email)
+    user = find_by(email:)
     user if user&.authenticate(password)
   end
 end
